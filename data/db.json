@@ -1,0 +1,98 @@
+{
+  "courses": [
+    {
+      "name": "Civil Engineering",
+      "image": "https://www.careerguide.com/career/civil-engineering/civil-engineering-vs-architecture-choosing-the-right-career",
+      "id": "10001"
+    },
+    {
+      "name": "Lab technician",
+      "image": "https://blog.excelmind.org/subjects-for-civil-engineering-in-jamb.jpg",
+      "id": "10002"
+    },
+    {
+      "name": "Business",
+      "image": "./asets/images/Homebackground.jpg",
+      "id": "10003"
+    },
+    {
+      "name": "Accounting",
+      "image": "https://blog.excelmind.org/subjects-for-civil-engineering-in-jamb/",
+      "id": "10004"
+    },
+    {
+      "name": "Commerce",
+      "image": "https://blog.excelmind.org/subjects-for-civil-engineering-in-jamb/",
+      "id": "10005"
+    },
+    {
+      "name": "Agricultural engineering",
+      "image": "https://blog.excelmind.org/subjects-for-civil-engineering-in-jamb/",
+      "id": "10006"
+    },
+    {
+      "name": "Food science",
+      "image": "../assets/images/pexel.jpg",
+      "id": "10007"
+    },
+    {
+      "name": "Bio-Chemistry",
+      "image": "https://blog.excelmind.org/subjects-for-civil-engineering-in-jamb/",
+      "id": "10008"
+    },
+    {
+      "name": "Electrical Engineering",
+      "image": "https://blog.excelmind.org/subjects-for-civil-engineering-in-jamb/",
+      "id": "10009"
+    },
+    {
+      "name": "Cyber security",
+      "image": "https://blog.excelmind.org/subjects-for-civil-engineering-in-jamb/",
+      "id": "10010"
+    }
+  ],
+  "libary": [
+    {
+      "id": "201",
+      "title": "Mathematics",
+      "image": "../pexel.png",
+      "Author": "Jean jures"
+    },
+    {
+      "id": "202",
+      "title": "Advanced Physic",
+      "image": "../pexel.png",
+      "Author": "Jean jures"
+    },
+    {
+      "id": "203",
+      "title": "Understanding biology",
+      "image": "../pexel.png",
+      "Author": "Jean jures"
+    },
+    {
+      "id": "204",
+      "title": "My best friend-literature",
+      "image": "../pexel.png",
+      "Author": "Jean jures"
+    },
+    {
+      "id": "205",
+      "title": "Agriculture and Technology",
+      "image": "../pexel.png",
+      "Author": "Jean jures"
+    },
+    {
+      "id": "206",
+      "title": "Simple Chemistry",
+      "image": "../pexel.png",
+      "Author": "Jean jures"
+    },
+    {
+      "id": "207",
+      "title": "Glorious revolution",
+      "image": "../pexel.png",
+      "Author": "Jean jures"
+    }
+  ]
+}
